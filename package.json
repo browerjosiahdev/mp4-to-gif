@@ -1,0 +1,12 @@
+{
+  "name": "mp4-to-gif",
+  "version": "1.0.0",
+  "description": "Example using ffmpeg to convert an mp4 file to a gif at runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AllenComm <josiahb@allencomm.com>",
+  "license": "ISC",
+  "repository": "https://github.com/browerjosiahdev/mp4-to-gif.git"
+}
