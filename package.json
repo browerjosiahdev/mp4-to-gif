@@ -4,7 +4,7 @@
   "description": "Example using ffmpeg to convert an mp4 file to a gif at runtime",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "AllenComm <josiahb@allencomm.com>",
   "license": "ISC",
